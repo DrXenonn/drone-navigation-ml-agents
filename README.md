@@ -2,8 +2,9 @@
 
 A small autonomous drone that learns to fly through a procedurally generated city and reach a target, trained with reinforcement learning using **Unity ML-Agents**. Built as a university project for an Artificial Intelligence course.
 
-<!-- Replace with your own GIF/screenshot: put files in /docs and link them here -->
 ![Gameplay preview](docs/image5.gif)
+![Gameplay preview](docs/image4.jpeg)
+![Gameplay preview](docs/image6.png)
 
 ## Overview
 
